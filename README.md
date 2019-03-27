@@ -57,6 +57,7 @@ information about all the values inside the config.json:
     "q_username": "", // The query username of your TeamSpeak Query server. (As admin: tools>ServerQuery Login)
     "q_password": "", // The query password of your TeamSpeak Query server.
     "q_vserverid": 1, // The id of your virtual server, default is 1.
+    "bot_nickname": "Steambot", // The nickname the bot will use on teamspeak.
     "bot_username": "", // The username of your Steam bot which you use to log in.
     "bot_password": "", // The password of your Steam bot account.
     "minlevel": 1, // The minimum required Steam level of the client who wants to utilize the verification system. Shouldn't be 0.
