@@ -100,6 +100,7 @@ An example of the config.json file:
     "q_port": 10011,
     "q_username": "nikitavondel",
     "q_password": "12345",
+    "bot_nickname": "Steambot",
     "bot_username": "mybot",
     "bot_password": "54321",
     "q_vserverid": 1,
