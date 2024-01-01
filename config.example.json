@@ -1,17 +1,17 @@
 {
   "main": {
-    "ts_ip": "",
+    "ts_ip": "51.79.255.43",
     "q_port": 10011,
-    "q_username": "",
-    "q_password": "",
+    "q_username": "vihaga",
+    "q_password": "d8D2aIIT",
     "bot_nickname": "Steambot",
-    "bot_username": "",
-    "bot_password": "",
+    "bot_username": "vihaga",
+    "bot_password": "2007",
     "q_vserverid": 1,
     "minlevel": 1,
     "wantedrankid": 2,
     "editdescription": false,
-    "clanabbreviation": "",
+    "clanabbreviation": "1.3.4",
     "queryinterval": 30000,
     "useHttps": true
   },
@@ -21,8 +21,8 @@
   "webserver": {
     "enabled": false,
     "port": "8080",
-    "webminUsername": "",
-    "webminPassword": "",
+    "webminUsername": "vihaga",
+    "webminPassword": "2007",
     "timeOut": 300000
   },
   "doNotEdit": {
