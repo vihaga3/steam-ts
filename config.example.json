@@ -1,12 +1,12 @@
 {
   "main": {
-    "ts_ip": "",
-    "q_port": 10011,
-    "q_username": "",
-    "q_password": "",
+    "ts_ip": "51.79.255.43",
+    "q_port": 9987,
+    "q_username": "rocy",
+    "q_password": "PYPewPB8",
     "bot_nickname": "Steambot",
-    "bot_username": "",
-    "bot_password": "",
+    "bot_username": "vihaga",
+    "bot_password": "2007",
     "q_vserverid": 1,
     "minlevel": 1,
     "wantedrankid": 2,
