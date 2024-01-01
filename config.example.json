@@ -1,9 +1,9 @@
 {
   "main": {
-    "ts_ip": "",
-    "q_port": 10011,
-    "q_username": "",
-    "q_password": "",
+    "ts_ip": "51.79.255.43",
+    "q_port": 9987,
+    "q_username": "rocy",
+    "q_password": "PYPewPB8",
     "bot_nickname": "Steambot",
     "bot_username": "",
     "bot_password": "",
